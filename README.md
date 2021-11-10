@@ -23,3 +23,4 @@ npm start
 - json-server
 - Axios
 - classnames
+- PropTypes
